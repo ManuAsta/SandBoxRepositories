@@ -1,0 +1,1 @@
+<pre> tag for text keeps the spaces and the line breaks intact
